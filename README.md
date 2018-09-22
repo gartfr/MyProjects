@@ -1,2 +1,2 @@
-# MyProjects
+# My Projects
 Some Arduino Projects
